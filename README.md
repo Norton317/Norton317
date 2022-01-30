@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Norton317
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in web
+- 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on design and web
 
 
